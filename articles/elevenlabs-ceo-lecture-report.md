@@ -16,7 +16,7 @@ published: false
 
 単なる文字起こしに留まらず、mati氏が何を伝えようとしていたのか、その情熱とビジョンを正確に読者の皆様にお届けすることを目指します。
 
-![講演の様子](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/01_title_slide.jpg)
+![講演の様子](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/01_ceo_event_photo.jpg)
 
 ## すべての始まり：ポーランドの映画文化と一つの友情
 
@@ -34,23 +34,21 @@ published: false
 
 そのビジョンは、今や世界を席巻しています。elevenlabsは月間500万人以上のアクティブユーザーを抱え、fortune 500企業の75%以上で利用されるなど、ai業界で最も急成長している企業の一つです。企業価値は66億ドルに達し、その勢いは留まることを知りません。
 
-![世界企業とのパートナーシップ](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/03_company_growth.jpg)
+![ビジネス概要と成長指標](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/02_business_overview_metrics.jpg)
 
 mati氏が特に熱を込めて語ったのが、日本市場への期待です。
 
 > 「日本のイノベーションと私たちのパートナーシップの可能性は、まだ始まったばかりです。」
 
-![日本市場への期待](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/04_japan_focus.jpg)
+![日本におけるビジネス状況](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/03_japan_business_status.jpg)
 
 その言葉を裏付けるように、すでにtvbs、大阪ガス、ニコン放送といった日本の主要企業と提携。さらに、トヨタやnttといった日本を代表する企業からの出資も受けています。日本に10人規模の専門チームを配置し、市場の深いニーズに応えるために**日本語に特化した初のモデル**を開発したことも、彼らの本気度を示しています。
-
-![日本でのパートナーシップ](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/05_japan_partnerships.jpg)
 
 ## elevenlabsを支える3つの柱
 
 elevenlabsの強さは、3つの事業領域が有機的に連携している点にあります。
 
-![3つのコア事業](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/06_three_core_businesses.jpg)
+![基礎的なai企業としての位置づけ](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/04_foundational_ai_company.jpg)
 
 | 事業領域 | 説明 |
 | :--- | :--- |
@@ -62,11 +60,13 @@ elevenlabsの強さは、3つの事業領域が有機的に連携している点
 
 elevenlabsの「スーパーパワー」は、その卓越した研究開発力にあります。人間らしい自然な感情を表現できるttsモデルや、100言語に対応する高精度なsttモデルを自社で開発。さらに、プロンプトから音楽や効果音を生成するモデルも手掛けています。
 
-![研究開発のスライド](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/07_foundational_research.jpg)
+![研究開発と製品群](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/05_research_and_products.jpg)
 
 講演では、その実力を示す日本語のデモが披露されました。
 
 **デモ1: 成田空港との連携で生まれた声**
+
+![成田祐介氏のai音声デモ](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/06_narita_yusuke_ai_voice_demo.jpg)
 
 <audio controls src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030722955/OtqCPahpECknmnBC.m4a"></audio>
 
@@ -80,33 +80,47 @@ elevenlabsの「スーパーパワー」は、その卓越した研究開発力�
 
 elevenlabsは、単なる音声生成に留まりません。音声、音楽、効果音を映像と組み合わせ、プロレベルの編集までを一貫して行える**クリエイティブプラットフォーム**を提供。特に、日本のアニメなどを海外展開する際の**ローカライゼーション**に力を入れています。
 
-![クリエイティブプラットフォーム](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/08_creative_platform.jpg)
+![クリエイティブプラットフォーム概要](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/07_creative_platform_overview.jpg)
 
 > 「元の声優の声を維持したまま、他言語に吹き替えることができます。将来的には、あらゆるコンテンツでこれが当たり前になることを期待しています。」
 
-![ローカライゼーション](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/09_localization.jpg)
+![クリエイティブプラットフォームのインターフェース](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/08_creative_platform_interface.jpg)
 
 ### ビジネスを変革する力：エージェントプラットフォーム
 
 講演の後半で特に焦点が当てられたのが、企業のデジタルトランスフォーメーションを加速させる**エージェントプラットフォーム**です。
 
-![エージェントプラットフォーム](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/10_agents_platform.jpg)
+![プロダクションエージェントプラットフォーム](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/09_production_agent_platform.jpg)
 
 これは、stt、llm、ttsをシームレスに統合し、人間と遜色ない対話体験を実現するものです。ワイナリーの予約を想定したデモでは、その驚くべき応答速度と自然な会話の流れが示されました。
 
 **デモ3: aiエージェントとの自然な対話**
 
-![エージェントデモ会話](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/11_agent_demo_conversation1.jpg)
+![エージェント会話イントロ](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/10_agent_conversation_intro.jpg)
+
+![エージェント会話：リスニング](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/11_agent_conversation_listening.jpg)
+
+![エージェント会話：ラッピングサービス](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/12_agent_conversation_wrapping_service.jpg)
+
+![エージェント会話：配送](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/13_agent_conversation_shipping.jpg)
 
 <audio controls src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030722955/KLANahOhVqQOLhIO.m4a"></audio>
 
 このプラットフォームは、単に会話するだけでなく、**設定・連携(configure)**、**デプロイ(deploy)**、**監視(monitor)**というエンタープライズ向けの堅牢なサイクルをサポートしています。
 
 - **configure**: ワークフローを設計し、多様な外部システムと連携。
+
+![マルチエージェント統合の設定](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/14_configure_multi_agent_integrations.jpg)
+
 - **deploy**: 安全なテストとバージョン管理を経て本番環境へ。
+
+![デプロイとバージョン管理](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/15_deploy_versioning_management.jpg)
+
 - **monitor**: パフォーマンスを監視し、継続的に最適化。
 
-![エージェントのライフサイクル](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/15_agent_deploy_versioning.jpg)
+![運用ループの監視](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/16_monitor_operational_loop.jpg)
+
+![エージェントアーキテクチャフロー](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/17_agent_architecture_flow.jpg)
 
 この強力な基盤が、具体的なビジネス成果を生み出しています。
 
@@ -134,7 +148,7 @@ elevenlabsは、単なる音声生成に留まりません。音声、音楽、�
 
 最後にmati氏は、elevenlabsが描く未来のビジョンを3つのキーワードで語りました。
 
-![aiオーディオの未来](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/20_future_of_ai_audio.jpg)
+![aiオーディオの未来](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/20_future_ai_audio.jpg)
 
 1.  **音声が主要なインターフェースに**: あらゆるデバイスと声で対話し、私たちは携帯電話をポケットにしまい、もっと深く世界と関われるようになる。
 2.  **言語の壁がなくなる**: 
