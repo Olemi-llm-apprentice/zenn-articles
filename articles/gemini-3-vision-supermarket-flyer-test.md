@@ -3,7 +3,7 @@ title: "Gemini3 ProのVision性能をチラシチャレンジしてみた"
 emoji: "🛒"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["gemini", "ai", "vision", "ocr", "llm"]
-published: false
+published: true
 ---
 
 :::message
@@ -235,5 +235,5 @@ published: false
 
 Gemini1.5のときからこのチラシチャレンジやVision性能はかなり高いと理解してましたが、今回のGemini 3のVision性能は、更に精度が向上したのでは！？と感じさせられました。  
 正解データを作るとき木曜日の部分だけをトリミングしてGemini3 Proに同様に投げたのですが、98%くらいの精度でほぼ修正なしの正解データを作成できました！  
-Browser UseのスコアもGemini3が一番高いみたいなのが今日流れてきたので、この前失敗したえきねっとチャレンジも試してみたいです。
+Browser UseのスコアもGemini3が一番高いみたいなのが今日流れてきたので、この前失敗した**えきねっとチャレンジ**も試してみたいです。
 @[tweet](https://x.com/browser_use/status/1990813676287496311?s=20)
