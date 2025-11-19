@@ -1,9 +1,9 @@
 ---
-title: "ElevenLabs CEOが語る、音声AIの現在と未来【講演レポート完全版】"
+title: "ElevenLabs CEOが語る、音声AIの現在と未来【講演レポート】"
 emoji: "🔊"
 type: "tech"
 topics: ["ai", "音声合成", "elevenlabs", "イベントレポート", "llm"]
-published: false
+published: true
 ---
 
 :::message
