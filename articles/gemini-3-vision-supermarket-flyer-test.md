@@ -1,5 +1,5 @@
 ---
-title: "Gemini 3のVision性能を日本のスーパーのチラシでテストしてみた"
+title: "Gemini3 ProのVision性能をチラシチャレンジしてみた"
 emoji: "🛒"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["gemini", "ai", "vision", "ocr", "llm"]
@@ -7,7 +7,7 @@ published: false
 ---
 
 :::message
-この記事はGemini3Proで生成した記事です。
+この記事はGemini3Proで生成して、気持ち人間が感想とかを書いた記事です。
 :::
 
 ## はじめに
