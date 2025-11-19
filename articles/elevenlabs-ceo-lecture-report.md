@@ -86,8 +86,6 @@ ElevenLabsは、単なる音声生成に留まりません。音声、音楽、�
 
 > 「元の声優の声を維持したまま、他言語に吹き替えることができます。将来的には、あらゆるコンテンツでこれが当たり前になることを期待しています。」
 
-![クリエイティブプラットフォームのインターフェース](https://raw.githubusercontent.com/Olemi-llm-apprentice/zenn-articles/master/images/elevenlabs-ceo-lecture-report/08_creative_platform_interface.jpg)
-
 @[card](https://elevenlabs.io/dubbing)
 
 ### ビジネスを変革する力：エージェントプラットフォーム
