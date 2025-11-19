@@ -7,7 +7,7 @@ published: false
 ---
 
 :::message
-この記事はAIエージェントManusで生成されました
+この記事はAIエージェントManusで初期案を生成し、AntigravityのGemini 3 Pro Lowでブラッシュアップしたのち、AI Studioで記述内容についてファクトチェックを行い、最終的に編集したものです。
 :::
 
 ## はじめに
